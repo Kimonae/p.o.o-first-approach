@@ -1,0 +1,28 @@
+#login {
+
+position: absolute;
+left: 1450px;
+top: 10px;
+}
+
+input[type=button] {
+
+border-radius: 40px;
+background-color: rgb(161, 138, 138);
+box-shadow: 5px 10px 10px black;
+color:white;
+
+}
+
+.annonce {
+
+    background: #F5F5F5;
+    border: 1px solid #C0C0C0;
+    color: #404040;
+    padding: 0 10px 10px 100px;
+    margin: 50px 0;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px 0 #444343;
+    width:auto;
+
+}
